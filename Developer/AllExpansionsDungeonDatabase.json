@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "repository": "https://github.com/Nnoggie/MythicDungeonTools",
+    "generated": "February 15, 2026",
+    "totalExpansions": 8,
+    "totalDungeons": 38,
+    "totalPOIs": 11021,
+    "totalEnemies": 873
+  },
+  "expansions": {
+    "Legion": {
+      "dungeons": {},
+      "stats": {
+        "count": 0,
+        "pois": 0,
+        "enemies": 0
+      }
+    },
+    "Battle for Azeroth": {
+      "dungeons": {},
+      "stats": {
+        "count": 0,
+        "pois": 0,
+        "enemies": 0
+      }
+    },
+    "Shadowlands": {
+      "dungeons": {},
+      "stats": {
+        "count": 0,
+        "pois": 0,
+        "enemies": 0
+      }
+    },
+    "Dragonflight": {
+      "dungeons": {},
+      "stats": {
+        "count": 0,
+        "pois": 0,
+        "enemies": 0
+      }
+    },
+    "The War Within": {
+      "dungeons": {
+        "113": {
+          "name": "AraKara",
+          "file": "TheWarWithin/AraKara.lua",
+          "pois": 457,
+          "enemies": 22
+        },
+        "116": {
+          "name": "Cinderbrew Meadery",
+          "file": "TheWarWithin/CinderbrewMeadery.lua",
+          "pois": 383,
+          "enemies": 24
+        },
+        "114": {
+          "name": "CityOfThreads",
+          "file": "TheWarWithin/CityOfThreads.lua",
+          "pois": 373,
+          "enemies": 28
+        },
+        "117": {
+          "name": "Darkflame Cleft",
+          "file": "TheWarWithin/DarkflameCleft.lua",
+          "pois": 352,
+          "enemies": 30
+        },
+        "123": {
+          "name": "Eco-Dome Al'dani",
+          "file": "TheWarWithin/EcoDomeAldani.lua",
+          "pois": 377,
+          "enemies": 20
+        },
+        "112": {
+          "name": "Grim Batol",
+          "file": "TheWarWithin/GrimBatol.lua",
+          "pois": 287,
+          "enemies": 20
+        },
+        "30": {
+          "name": "Halls of Atonement",
+          "file": "TheWarWithin/HallsOfAtonement.lua",
+          "pois": 441,
+          "enemies": 24
+        },
+        "122": {
+          "name": "Mechagon - Workshop",
+          "file": "TheWarWithin/MechagonWorkshop.lua",
+          "pois": 244,
+          "enemies": 22
+        },
+        "31": {
+          "name": "Mists of Tirna Scithe",
+          "file": "TheWarWithin/MistsOfTirnaScithe.lua",
+          "pois": 310,
+          "enemies": 24
+        },
+        "119": {
+          "name": "Operation: Floodgate",
+          "file": "TheWarWithin/OperationFloodgate.lua",
+          "pois": 420,
+          "enemies": 27
+        },
+        "115": {
+          "name": "Priory of the Sacred Flame",
+          "file": "TheWarWithin/PrioryOfTheSacredFlame.lua",
+          "pois": 495,
+          "enemies": 24
+        },
+        "19": {
+          "name": "Siege of Boralus",
+          "file": "TheWarWithin/SiegeofBoralus.lua",
+          "pois": 370,
+          "enemies": 36
+        },
+        "37": {
+          "name": "TazaveshLower",
+          "file": "TheWarWithin/TazaveshLower.lua",
+          "pois": 382,
+          "enemies": 37
+        },
+        "38": {
+          "name": "TazaveshUpper",
+          "file": "TheWarWithin/TazaveshUpper.lua",
+          "pois": 376,
+          "enemies": 24
+        },
+        "111": {
+          "name": "The Dawnbreaker",
+          "file": "TheWarWithin/TheDawnbreaker.lua",
+          "pois": 368,
+          "enemies": 18
+        },
+        "120": {
+          "name": "The MOTHERLODE!!",
+          "file": "TheWarWithin/TheMotherlode.lua",
+          "pois": 506,
+          "enemies": 32
+        },
+        "35": {
+          "name": "The Necrotic Wake",
+          "file": "TheWarWithin/TheNecroticWake.lua",
+          "pois": 382,
+          "enemies": 32
+        },
+        "118": {
+          "name": "The Rookery",
+          "file": "TheWarWithin/TheRookery.lua",
+          "pois": 286,
+          "enemies": 17
+        },
+        "110": {
+          "name": "The Stonevault",
+          "file": "TheWarWithin/TheStonevault.lua",
+          "pois": 312,
+          "enemies": 25
+        },
+        "121": {
+          "name": "Theater of Pain",
+          "file": "TheWarWithin/TheaterOfPain.lua",
+          "pois": 323,
+          "enemies": 34
+        }
+      },
+      "stats": {
+        "count": 20,
+        "pois": 7444,
+        "enemies": 520
+      }
+    },
+    "Wrath of the Lich King": {
+      "dungeons": {},
+      "stats": {
+        "count": 0,
+        "pois": 0,
+        "enemies": 0
+      }
+    },
+    "Mists of Pandaria": {
+      "dungeons": {
+        "130": {
+          "name": "Gate of the Setting Sun",
+          "file": "MistsOfPandaria/GateOfTheSettingSun.lua",
+          "pois": 41,
+          "enemies": 10
+        },
+        "131": {
+          "name": "Mogu\\'shan Palace",
+          "file": "MistsOfPandaria/MoguShanPalace.lua",
+          "pois": 101,
+          "enemies": 23
+        },
+        "132": {
+          "name": "Scarlet Halls",
+          "file": "MistsOfPandaria/ScarletHalls.lua",
+          "pois": 118,
+          "enemies": 18
+        },
+        "133": {
+          "name": "Scarlet Monastery",
+          "file": "MistsOfPandaria/ScarletMonastery.lua",
+          "pois": 131,
+          "enemies": 13
+        },
+        "134": {
+          "name": "Scholomance",
+          "file": "MistsOfPandaria/Scholomance.lua",
+          "pois": 108,
+          "enemies": 14
+        },
+        "135": {
+          "name": "Shado-Pan Monastery",
+          "file": "MistsOfPandaria/ShadoPanMonastery.lua",
+          "pois": 148,
+          "enemies": 20
+        },
+        "136": {
+          "name": "Siege of Niuzao Temple",
+          "file": "MistsOfPandaria/SiegeOfNiuzaoTemple.lua",
+          "pois": 179,
+          "enemies": 18
+        },
+        "137": {
+          "name": "Stormstout Brewery",
+          "file": "MistsOfPandaria/StormstoutBrewery.lua",
+          "pois": 98,
+          "enemies": 12
+        },
+        "138": {
+          "name": "Temple of the Jade Serpent",
+          "file": "MistsOfPandaria/TempleOfTheJadeSerpent.lua",
+          "pois": 144,
+          "enemies": 19
+        }
+      },
+      "stats": {
+        "count": 9,
+        "pois": 1068,
+        "enemies": 147
+      }
+    },
+    "Midnight": {
+      "dungeons": {
+        "45": {
+          "name": "AlgetharAcademy",
+          "file": "Midnight/AlgetharAcademy.lua",
+          "pois": 271,
+          "enemies": 17
+        },
+        "153": {
+          "name": "MagistersTerrace",
+          "file": "Midnight/MagistersTerrace.lua",
+          "pois": 304,
+          "enemies": 25
+        },
+        "154": {
+          "name": "MaisaraCaverns",
+          "file": "Midnight/MaisaraCaverns.lua",
+          "pois": 501,
+          "enemies": 32
+        },
+        "160": {
+          "name": "MurderRow",
+          "file": "Midnight/MurderRow.lua",
+          "pois": 1,
+          "enemies": 0
+        },
+        "155": {
+          "name": "NexusPointXenas",
+          "file": "Midnight/NexusPointXenas.lua",
+          "pois": 295,
+          "enemies": 34
+        },
+        "150": {
+          "name": "PitOfSaron",
+          "file": "Midnight/PitOfSaron.lua",
+          "pois": 330,
+          "enemies": 23
+        },
+        "11": {
+          "name": "Seat of the Triumvirate",
+          "file": "Midnight/SeatoftheTriumvirate.lua",
+          "pois": 260,
+          "enemies": 22
+        },
+        "151": {
+          "name": "Skyreach",
+          "file": "Midnight/Skyreach.lua",
+          "pois": 192,
+          "enemies": 22
+        },
+        "152": {
+          "name": "WindrunnerSpire",
+          "file": "Midnight/WindrunnerSpire.lua",
+          "pois": 355,
+          "enemies": 31
+        }
+      },
+      "stats": {
+        "count": 9,
+        "pois": 2509,
+        "enemies": 206
+      }
+    }
+  }
+}

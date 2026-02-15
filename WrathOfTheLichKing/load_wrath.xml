@@ -1,0 +1,20 @@
+<Ui>
+  <!-- WrathOfTheLichKing Dungeons -->
+
+  <Include file="WrathOfTheLichKing/AhnKahetTheOldKingdom.lua"/>
+  <Include file="WrathOfTheLichKing/AzjolNerub.lua"/>
+  <Include file="WrathOfTheLichKing/DrakTharonKeep.lua"/>
+  <Include file="WrathOfTheLichKing/Gundrak.lua"/>
+  <Include file="WrathOfTheLichKing/HallsOfLightning.lua"/>
+  <Include file="WrathOfTheLichKing/HallsOfStone.lua"/>
+  <Include file="WrathOfTheLichKing/IcecrownCitadel.lua"/>
+  <Include file="WrathOfTheLichKing/Naxxramas.lua"/>
+  <Include file="WrathOfTheLichKing/TheCullingOfStratholme.lua"/>
+  <Include file="WrathOfTheLichKing/TheNexus.lua"/>
+  <Include file="WrathOfTheLichKing/TheOculus.lua"/>
+  <Include file="WrathOfTheLichKing/TheVioletHold.lua"/>
+  <Include file="WrathOfTheLichKing/TrialOfTheGrandCrusader.lua"/>
+  <Include file="WrathOfTheLichKing/Ulduar.lua"/>
+  <Include file="WrathOfTheLichKing/UtgardeKeep.lua"/>
+  <Include file="WrathOfTheLichKing/UtgardePinnacle.lua"/>
+</Ui>

@@ -1,0 +1,16 @@
+<Ui>
+  <!-- Shadowlands Dungeons -->
+
+  <Include file="Shadowlands/DeOtherSide.lua"/>
+  <Include file="Shadowlands/GrimrailDepot.lua"/>
+  <Include file="Shadowlands/HallsOfAtonement.lua"/>
+  <Include file="Shadowlands/IronDocks.lua"/>
+  <Include file="Shadowlands/MistsOfTirnaScithe.lua"/>
+  <Include file="Shadowlands/Plaguefall.lua"/>
+  <Include file="Shadowlands/SanguineDepths.lua"/>
+  <Include file="Shadowlands/SpiresOfAscension.lua"/>
+  <Include file="Shadowlands/TazaveshLower.lua"/>
+  <Include file="Shadowlands/TazaveshUpper.lua"/>
+  <Include file="Shadowlands/TheNecroticWake.lua"/>
+  <Include file="Shadowlands/TheaterOfPain.lua"/>
+</Ui>

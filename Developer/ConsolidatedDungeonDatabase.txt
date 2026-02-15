@@ -1,0 +1,185 @@
+================================================================================
+MYTHIC DUNGEON TOOLS - COMPLETE INTEGRATED DUNGEON DATABASE
+================================================================================
+
+Generated from: https://github.com/Nnoggie/MythicDungeonTools
+Latest version analyzed: 6.0.7
+Total dungeons: 18
+
+================================================================================
+DUNGEON INVENTORY
+================================================================================
+
+File: Midnight/AlgetharAcademy.lua
+  Index: 45
+  Name: AlgetharAcademy
+  POIs: 271
+  Enemies: 17
+  MapInfo: Present
+  TotalCount: Present
+
+File: Midnight/MagistersTerrace.lua
+  Index: 153
+  Name: MagistersTerrace
+  POIs: 304
+  Enemies: 25
+  MapInfo: Present
+  TotalCount: Present
+
+File: Midnight/MaisaraCaverns.lua
+  Index: 154
+  Name: MaisaraCaverns
+  POIs: 501
+  Enemies: 32
+  MapInfo: Present
+  TotalCount: Present
+
+File: Midnight/MurderRow.lua
+  Index: 160
+  Name: MurderRow
+  POIs: 1
+  Enemies: 0
+  MapInfo: Present
+  TotalCount: Present
+
+File: Midnight/NexusPointXenas.lua
+  Index: 155
+  Name: NexusPointXenas
+  POIs: 295
+  Enemies: 34
+  MapInfo: Present
+  TotalCount: Present
+
+File: Midnight/PitOfSaron.lua
+  Index: 150
+  Name: PitOfSaron
+  POIs: 330
+  Enemies: 23
+  MapInfo: Present
+  TotalCount: Present
+
+File: Midnight/SeatoftheTriumvirate.lua
+  Index: 11
+  Name: Seat of the Triumvirate
+  POIs: 260
+  Enemies: 22
+  MapInfo: Present
+  TotalCount: Present
+
+File: Midnight/Skyreach.lua
+  Index: 151
+  Name: Skyreach
+  POIs: 192
+  Enemies: 22
+  MapInfo: Present
+  TotalCount: Present
+
+File: Midnight/WindrunnerSpire.lua
+  Index: 152
+  Name: WindrunnerSpire
+  POIs: 355
+  Enemies: 31
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/GateOfTheSettingSun.lua
+  Index: 130
+  Name: Gate of the Setting Sun
+  POIs: 41
+  Enemies: 10
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/MoguShanPalace.lua
+  Index: 131
+  Name: Mogu\'shan Palace
+  POIs: 101
+  Enemies: 23
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/ScarletHalls.lua
+  Index: 132
+  Name: Scarlet Halls
+  POIs: 118
+  Enemies: 18
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/ScarletMonastery.lua
+  Index: 133
+  Name: Scarlet Monastery
+  POIs: 131
+  Enemies: 13
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/Scholomance.lua
+  Index: 134
+  Name: Scholomance
+  POIs: 108
+  Enemies: 14
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/ShadoPanMonastery.lua
+  Index: 135
+  Name: Shado-Pan Monastery
+  POIs: 148
+  Enemies: 20
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/SiegeOfNiuzaoTemple.lua
+  Index: 136
+  Name: Siege of Niuzao Temple
+  POIs: 179
+  Enemies: 18
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/StormstoutBrewery.lua
+  Index: 137
+  Name: Stormstout Brewery
+  POIs: 98
+  Enemies: 12
+  MapInfo: Present
+  TotalCount: Present
+
+File: MistsOfPandaria/TempleOfTheJadeSerpent.lua
+  Index: 138
+  Name: Temple of the Jade Serpent
+  POIs: 144
+  Enemies: 19
+  MapInfo: Present
+  TotalCount: Present
+
+================================================================================
+DUNGEON INDEX MAPPING
+================================================================================
+
+[ 11] Seat of the Triumvirate                  - POIs: 260, Enemies:  22
+[ 45] AlgetharAcademy                          - POIs: 271, Enemies:  17
+[130] Gate of the Setting Sun                  - POIs:  41, Enemies:  10
+[131] Mogu\'shan Palace                        - POIs: 101, Enemies:  23
+[132] Scarlet Halls                            - POIs: 118, Enemies:  18
+[133] Scarlet Monastery                        - POIs: 131, Enemies:  13
+[134] Scholomance                              - POIs: 108, Enemies:  14
+[135] Shado-Pan Monastery                      - POIs: 148, Enemies:  20
+[136] Siege of Niuzao Temple                   - POIs: 179, Enemies:  18
+[137] Stormstout Brewery                       - POIs:  98, Enemies:  12
+[138] Temple of the Jade Serpent               - POIs: 144, Enemies:  19
+[150] PitOfSaron                               - POIs: 330, Enemies:  23
+[151] Skyreach                                 - POIs: 192, Enemies:  22
+[152] WindrunnerSpire                          - POIs: 355, Enemies:  31
+[153] MagistersTerrace                         - POIs: 304, Enemies:  25
+[154] MaisaraCaverns                           - POIs: 501, Enemies:  32
+[155] NexusPointXenas                          - POIs: 295, Enemies:  34
+[160] MurderRow                                - POIs:   1, Enemies:   0
+
+================================================================================
+STATISTICS
+================================================================================
+Total Dungeons: 18
+Total POIs: 3577
+Total Enemies: 353

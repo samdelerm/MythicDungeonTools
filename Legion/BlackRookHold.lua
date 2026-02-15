@@ -1,0 +1,31 @@
+local addonName = ...
+local MDT = MDT
+local L = MDT.L
+
+local dungeonIndex = 200
+MDT.dungeonList[dungeonIndex] = L["BlackRookHold"]
+MDT.mapInfo[dungeonIndex] = {
+  shortName = L["blackrookholdShortName"],
+  englishName = "BlackRookHold",
+  mapID = 0, -- TODO: Add correct mapID
+}
+
+local zones = { } -- TODO: Add zone IDs
+for _, zone in ipairs(zones) do
+  MDT.zoneIdToDungeonIdx[zone] = dungeonIndex
+end
+
+MDT.dungeonMaps[dungeonIndex] = {
+  [0] = "",
+  [1] = { customTextures = 'Interface\\AddOns\'..addonName..'\\'..'legion\\Textures\\BlackRookHold' }
+}
+
+MDT.dungeonSubLevels[dungeonIndex] = {
+  [1] = L["BlackRookHold"],
+}
+
+MDT.dungeonTotalCount[dungeonIndex] = { normal = 0 } -- TODO: Add correct count
+
+MDT.mapPOIs[dungeonIndex] = {};
+
+MDT.dungeonEnemies[dungeonIndex] = {};

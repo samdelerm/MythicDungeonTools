@@ -1,0 +1,11 @@
+<Ui>
+  <!-- All Expansions Loader -->
+  <!-- This file loads all dungeon data from all expansions -->
+
+  <Include file="Legion/load_legion.xml"/>
+  <Include file="BattleForAzeroth/load_battleforazeroth.xml"/>
+  <Include file="Shadowlands/load_shadowlands.xml"/>
+  <Include file="Dragonflight/load_dragonflight.xml"/>
+  <Include file="WrathOfTheLichKing/load_wrath.xml"/>
+  <Include file="TheWarWithin/load_thewarwithin.xml"/>
+</Ui>

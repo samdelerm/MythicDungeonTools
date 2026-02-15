@@ -28,5 +28,6 @@ Utility.lua
 MythicDungeonTools.lua
 Modules\load_modules.xml
 Developer\load_developer.xml
+load_expansions.xml
 Midnight\load_midnight.xml [AllowLoadGameType mainline]
 MistsOfPandaria\load_mop.xml [AllowLoadGameType mists]

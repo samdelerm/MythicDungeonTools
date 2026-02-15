@@ -1,0 +1,694 @@
+{
+  "metadata": {
+    "repository": "https://github.com/Nnoggie/MythicDungeonTools",
+    "total_versions_scanned": 15,
+    "total_dungeons": 18,
+    "regenerated": true
+  },
+  "dungeons": {
+    "Midnight/AlgetharAcademy.lua": [
+      {
+        "version": "6.0.0",
+        "index": 45,
+        "name": "AlgetharAcademy",
+        "poi_count": 266,
+        "enemy_count": 17,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 45,
+        "name": "AlgetharAcademy",
+        "poi_count": 271,
+        "enemy_count": 17,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "Midnight/MagistersTerrace.lua": [
+      {
+        "version": "6.0.0",
+        "index": 153,
+        "name": "MagistersTerrace",
+        "poi_count": 302,
+        "enemy_count": 25,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 153,
+        "name": "MagistersTerrace",
+        "poi_count": 304,
+        "enemy_count": 25,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "Midnight/MaisaraCaverns.lua": [
+      {
+        "version": "6.0.0",
+        "index": 154,
+        "name": "MaisaraCaverns",
+        "poi_count": 501,
+        "enemy_count": 32,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 154,
+        "name": "MaisaraCaverns",
+        "poi_count": 501,
+        "enemy_count": 32,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "Midnight/MurderRow.lua": [
+      {
+        "version": "6.0.0",
+        "index": 160,
+        "name": "MurderRow",
+        "poi_count": 1,
+        "enemy_count": 0,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 160,
+        "name": "MurderRow",
+        "poi_count": 1,
+        "enemy_count": 0,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "Midnight/NexusPointXenas.lua": [
+      {
+        "version": "6.0.0",
+        "index": 155,
+        "name": "NexusPointXenas",
+        "poi_count": 197,
+        "enemy_count": 34,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 155,
+        "name": "NexusPointXenas",
+        "poi_count": 295,
+        "enemy_count": 34,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "Midnight/PitOfSaron.lua": [
+      {
+        "version": "6.0.0",
+        "index": 150,
+        "name": "PitOfSaron",
+        "poi_count": 318,
+        "enemy_count": 23,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 150,
+        "name": "PitOfSaron",
+        "poi_count": 330,
+        "enemy_count": 23,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "Midnight/SeatoftheTriumvirate.lua": [
+      {
+        "version": "6.0.0",
+        "index": 11,
+        "name": "Seat of the Triumvirate",
+        "poi_count": 260,
+        "enemy_count": 22,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 11,
+        "name": "Seat of the Triumvirate",
+        "poi_count": 260,
+        "enemy_count": 22,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "Midnight/Skyreach.lua": [
+      {
+        "version": "6.0.0",
+        "index": 151,
+        "name": "Skyreach",
+        "poi_count": 192,
+        "enemy_count": 22,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 151,
+        "name": "Skyreach",
+        "poi_count": 192,
+        "enemy_count": 22,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "Midnight/WindrunnerSpire.lua": [
+      {
+        "version": "6.0.0",
+        "index": 152,
+        "name": "WindrunnerSpire",
+        "poi_count": 352,
+        "enemy_count": 31,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 152,
+        "name": "WindrunnerSpire",
+        "poi_count": 355,
+        "enemy_count": 31,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/GateOfTheSettingSun.lua": [
+      {
+        "version": "5.5.0",
+        "index": 130,
+        "name": "Gate of the Setting Sun",
+        "poi_count": 41,
+        "enemy_count": 10,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 130,
+        "name": "Gate of the Setting Sun",
+        "poi_count": 41,
+        "enemy_count": 10,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 130,
+        "name": "Gate of the Setting Sun",
+        "poi_count": 41,
+        "enemy_count": 10,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 130,
+        "name": "Gate of the Setting Sun",
+        "poi_count": 41,
+        "enemy_count": 10,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 130,
+        "name": "Gate of the Setting Sun",
+        "poi_count": 41,
+        "enemy_count": 10,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 130,
+        "name": "Gate of the Setting Sun",
+        "poi_count": 41,
+        "enemy_count": 10,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/MoguShanPalace.lua": [
+      {
+        "version": "5.5.0",
+        "index": 131,
+        "name": "Mogu\\'shan Palace",
+        "poi_count": 101,
+        "enemy_count": 23,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 131,
+        "name": "Mogu\\'shan Palace",
+        "poi_count": 101,
+        "enemy_count": 23,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 131,
+        "name": "Mogu\\'shan Palace",
+        "poi_count": 101,
+        "enemy_count": 23,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 131,
+        "name": "Mogu\\'shan Palace",
+        "poi_count": 101,
+        "enemy_count": 23,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 131,
+        "name": "Mogu\\'shan Palace",
+        "poi_count": 101,
+        "enemy_count": 23,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 131,
+        "name": "Mogu\\'shan Palace",
+        "poi_count": 101,
+        "enemy_count": 23,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/ScarletHalls.lua": [
+      {
+        "version": "5.5.0",
+        "index": 132,
+        "name": "Scarlet Halls",
+        "poi_count": 118,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 132,
+        "name": "Scarlet Halls",
+        "poi_count": 118,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 132,
+        "name": "Scarlet Halls",
+        "poi_count": 118,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 132,
+        "name": "Scarlet Halls",
+        "poi_count": 118,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 132,
+        "name": "Scarlet Halls",
+        "poi_count": 118,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 132,
+        "name": "Scarlet Halls",
+        "poi_count": 118,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/ScarletMonastery.lua": [
+      {
+        "version": "5.5.0",
+        "index": 133,
+        "name": "Scarlet Monastery",
+        "poi_count": 131,
+        "enemy_count": 13,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 133,
+        "name": "Scarlet Monastery",
+        "poi_count": 131,
+        "enemy_count": 13,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 133,
+        "name": "Scarlet Monastery",
+        "poi_count": 131,
+        "enemy_count": 13,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 133,
+        "name": "Scarlet Monastery",
+        "poi_count": 131,
+        "enemy_count": 13,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 133,
+        "name": "Scarlet Monastery",
+        "poi_count": 131,
+        "enemy_count": 13,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 133,
+        "name": "Scarlet Monastery",
+        "poi_count": 131,
+        "enemy_count": 13,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/Scholomance.lua": [
+      {
+        "version": "5.5.0",
+        "index": 134,
+        "name": "Scholomance",
+        "poi_count": 108,
+        "enemy_count": 14,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 134,
+        "name": "Scholomance",
+        "poi_count": 108,
+        "enemy_count": 14,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 134,
+        "name": "Scholomance",
+        "poi_count": 108,
+        "enemy_count": 14,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 134,
+        "name": "Scholomance",
+        "poi_count": 108,
+        "enemy_count": 14,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 134,
+        "name": "Scholomance",
+        "poi_count": 108,
+        "enemy_count": 14,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 134,
+        "name": "Scholomance",
+        "poi_count": 108,
+        "enemy_count": 14,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/ShadoPanMonastery.lua": [
+      {
+        "version": "5.5.0",
+        "index": 135,
+        "name": "Shado-Pan Monastery",
+        "poi_count": 148,
+        "enemy_count": 20,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 135,
+        "name": "Shado-Pan Monastery",
+        "poi_count": 148,
+        "enemy_count": 20,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 135,
+        "name": "Shado-Pan Monastery",
+        "poi_count": 148,
+        "enemy_count": 20,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 135,
+        "name": "Shado-Pan Monastery",
+        "poi_count": 148,
+        "enemy_count": 20,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 135,
+        "name": "Shado-Pan Monastery",
+        "poi_count": 148,
+        "enemy_count": 20,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 135,
+        "name": "Shado-Pan Monastery",
+        "poi_count": 148,
+        "enemy_count": 20,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/SiegeOfNiuzaoTemple.lua": [
+      {
+        "version": "5.5.0",
+        "index": 136,
+        "name": "Siege of Niuzao Temple",
+        "poi_count": 179,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 136,
+        "name": "Siege of Niuzao Temple",
+        "poi_count": 179,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 136,
+        "name": "Siege of Niuzao Temple",
+        "poi_count": 179,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 136,
+        "name": "Siege of Niuzao Temple",
+        "poi_count": 179,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 136,
+        "name": "Siege of Niuzao Temple",
+        "poi_count": 179,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 136,
+        "name": "Siege of Niuzao Temple",
+        "poi_count": 179,
+        "enemy_count": 18,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/StormstoutBrewery.lua": [
+      {
+        "version": "5.5.0",
+        "index": 137,
+        "name": "Stormstout Brewery",
+        "poi_count": 98,
+        "enemy_count": 12,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 137,
+        "name": "Stormstout Brewery",
+        "poi_count": 98,
+        "enemy_count": 12,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 137,
+        "name": "Stormstout Brewery",
+        "poi_count": 98,
+        "enemy_count": 12,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 137,
+        "name": "Stormstout Brewery",
+        "poi_count": 98,
+        "enemy_count": 12,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 137,
+        "name": "Stormstout Brewery",
+        "poi_count": 98,
+        "enemy_count": 12,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 137,
+        "name": "Stormstout Brewery",
+        "poi_count": 98,
+        "enemy_count": 12,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ],
+    "MistsOfPandaria/TempleOfTheJadeSerpent.lua": [
+      {
+        "version": "5.5.0",
+        "index": 138,
+        "name": "Temple of the Jade Serpent",
+        "poi_count": 144,
+        "enemy_count": 19,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.6.0",
+        "index": 138,
+        "name": "Temple of the Jade Serpent",
+        "poi_count": 144,
+        "enemy_count": 19,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.7.0",
+        "index": 138,
+        "name": "Temple of the Jade Serpent",
+        "poi_count": 144,
+        "enemy_count": 19,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "5.8.0",
+        "index": 138,
+        "name": "Temple of the Jade Serpent",
+        "poi_count": 144,
+        "enemy_count": 19,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.0",
+        "index": 138,
+        "name": "Temple of the Jade Serpent",
+        "poi_count": 144,
+        "enemy_count": 19,
+        "has_map_info": true,
+        "has_total_count": true
+      },
+      {
+        "version": "6.0.7",
+        "index": 138,
+        "name": "Temple of the Jade Serpent",
+        "poi_count": 144,
+        "enemy_count": 19,
+        "has_map_info": true,
+        "has_total_count": true
+      }
+    ]
+  }
+}

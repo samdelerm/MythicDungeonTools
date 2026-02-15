@@ -1,0 +1,17 @@
+<Ui>
+  <!-- Legion Dungeons -->
+
+  <Include file="Legion/BlackRookHold.lua"/>
+  <Include file="Legion/CathedralOfEternalNight.lua"/>
+  <Include file="Legion/CourtOfStars.lua"/>
+  <Include file="Legion/DarkheartThicket.lua"/>
+  <Include file="Legion/EyeOfAzshara.lua"/>
+  <Include file="Legion/HallsofValor.lua"/>
+  <Include file="Legion/MawOfSouls.lua"/>
+  <Include file="Legion/NeltharionsLair.lua"/>
+  <Include file="Legion/ReturntoKarazhanLower.lua"/>
+  <Include file="Legion/ReturntoKarazhanUpper.lua"/>
+  <Include file="Legion/SeatoftheTriumvirate.lua"/>
+  <Include file="Legion/TheArcway.lua"/>
+  <Include file="Legion/VaultoftheWardens.lua"/>
+</Ui>

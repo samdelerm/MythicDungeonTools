@@ -1,0 +1,339 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║         MYTHIC DUNGEON TOOLS - COMPLETE EXPANSION & DUNGEON DATABASE      ║
+║                                                                            ║
+║              All Dungeons from All Expansions (Historical)                ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+════════════════════════════════════════════════════════════════════════════
+OVERVIEW
+════════════════════════════════════════════════════════════════════════════
+
+Total Expansions: 8
+Total Dungeons: 130
+Total POIs: 11,021
+Total Enemies: 873
+Generated: February 15, 2026
+Source: https://github.com/Nnoggie/MythicDungeonTools
+
+════════════════════════════════════════════════════════════════════════════
+EXPANSION: LEGION (Patch 7.0+)
+════════════════════════════════════════════════════════════════════════════
+Status: Historical
+Dungeons: 13
+
+ 1. Black Rook Hold
+ 2. Cathedral of Eternal Night
+ 3. Court of Stars
+ 4. Darkheart Thicket
+ 5. Eye of Azshara
+ 6. Halls of Valor
+ 7. Maw of Souls
+ 8. Neltharion's Lair
+ 9. Return to Karazhan (Lower)
+10. Return to Karazhan (Upper)
+11. Seat of the Triumvirate
+12. The Arcway
+13. Vault of the Wardens
+
+════════════════════════════════════════════════════════════════════════════
+EXPANSION: BATTLE FOR AZEROTH (Patch 8.0+)
+════════════════════════════════════════════════════════════════════════════
+Status: Historical
+Dungeons: 12
+
+ 1. Atal'Dazar
+ 2. Freehold
+ 3. King's Rest
+ 4. Mechagon - City
+ 5. Mechagon - Island
+ 6. Shrine of the Storm
+ 7. Siege of Boralus
+ 8. Temple of Sethraliss
+ 9. The Motherlode!!
+10. The Underrot
+11. Tol Dagor
+12. Waycrest Manor
+
+════════════════════════════════════════════════════════════════════════════
+EXPANSION: SHADOWLANDS (Patch 9.0+)
+════════════════════════════════════════════════════════════════════════════
+Status: Historical
+Dungeons: 12
+
+ 1. De Other Side
+ 2. Grim Rail Depot
+ 3. Halls of Atonement
+ 4. Iron Docks
+ 5. Mists of Tirna Scithe
+ 6. Plaguefall
+ 7. Sanguine Depths
+ 8. Spires of Ascension
+ 9. Tazavesh (Lower)
+10. Tazavesh (Upper)
+11. The Necrotic Wake
+12. Theater of Pain
+
+════════════════════════════════════════════════════════════════════════════
+EXPANSION: DRAGONFLIGHT (Patch 10.0+)
+════════════════════════════════════════════════════════════════════════════
+Status: Historical
+Dungeons: 17
+
+ 1. Algethar Academy
+ 2. Black Rook Hold
+ 3. Brackenhide Hollow
+ 4. Dawn of the Infinite (Lower)
+ 5. Dawn of the Infinite (Upper)
+ 6. Everbloom
+ 7. Halls of Infusion
+ 8. Neltharus
+ 9. Ruby Life Pools
+10. Shadowmoon Burial Grounds
+11. Temple of the Jade Serpent
+12. The Azure Vault
+13. The Nokhud Offensive
+14. The Vortex Pinnacle
+15. Throne of the Tides
+16. Uldaman: Legacy of Tyr
+17. Waycrest Manor
+
+════════════════════════════════════════════════════════════════════════════
+EXPANSION: WRATH OF THE LICH KING (Patch 3.0+)
+════════════════════════════════════════════════════════════════════════════
+Status: Historical
+Dungeons: 16
+
+ 1. Ahn'kahet: The Old Kingdom
+ 2. Azjol-Nerub
+ 3. Drak'Tharon Keep
+ 4. Gundrak
+ 5. Halls of Lightning
+ 6. Halls of Stone
+ 7. Icecrown Citadel
+ 8. Naxxramas
+ 9. The Culling of Stratholme
+10. The Nexus
+11. The Oculus
+12. The Violet Hold
+13. Trial of the Grand Crusader
+14. Ulduar
+15. Utgarde Keep
+16. Utgarde Pinnacle
+
+════════════════════════════════════════════════════════════════════════════
+EXPANSION: MISTS OF PANDARIA (Patch 5.0+)
+════════════════════════════════════════════════════════════════════════════
+Status: CURRENT ✓
+Dungeons: 9
+
+ 1. Gate of the Setting Sun
+ 2. Mogu'shan Palace
+ 3. Scarlet Halls
+ 4. Scarlet Monastery
+ 5. Scholomance
+ 6. Shado-Pan Monastery
+ 7. Siege of Niuzao Temple
+ 8. Stormstout Brewery
+ 9. Temple of the Jade Serpent
+
+════════════════════════════════════════════════════════════════════════════
+EXPANSION: THE WAR WITHIN (Patch 11.0+)
+════════════════════════════════════════════════════════════════════════════
+Status: CURRENT ✓
+Dungeons: 21
+
+ 1. Ara-Kara, City of Echoes
+ 2. Cinderbrew Meadery
+ 3. City of Threads
+ 4. Darkflame Cleft
+ 5. Eco-Dome Al'dani
+ 6. Grim Batol
+ 7. Halls of Atonement
+ 8. Mechagon - Workshop
+ 9. Mists of Tirna Scithe
+10. Operation: Floodgate
+11. Priory of the Sacred Flame
+12. Siege of Boralus
+13. Tazavesh (Lower)
+14. Tazavesh (Upper)
+15. The Dawnbreaker
+16. The MOTHERLODE!!
+17. The Necrotic Wake
+18. The Rookery
+19. The Stonevault
+20. Theater of Pain
+
+Note: TheWarWithin/ArasKara.lua was also found (duplicate/alternate version)
+
+════════════════════════════════════════════════════════════════════════════
+EXPANSION: MIDNIGHT (Patch 12.0+)
+════════════════════════════════════════════════════════════════════════════
+Status: CURRENT ✓
+Dungeons: 9
+
+ 1. Algethar Academy
+ 2. Magisters Terrace
+ 3. Maisara Caverns
+ 4. Murder Row
+ 5. Nexus Point Xenas
+ 6. Pit of Saron
+ 7. Seat of the Triumvirate
+ 8. Skyreach
+ 9. Windrunner Spire
+
+════════════════════════════════════════════════════════════════════════════
+SUMMARY BY STATUS
+════════════════════════════════════════════════════════════════════════════
+
+CURRENT (Actively Supported):
+  • Mists of Pandaria ............ 9 dungeons
+  • The War Within .............. 21 dungeons
+  • Midnight ..................... 9 dungeons
+  ────────────────────────────────────────
+  Total Current: 39 dungeons
+
+HISTORICAL (Legacy/Archive):
+  • Legion ...................... 13 dungeons
+  • Battle for Azeroth .......... 12 dungeons
+  • Shadowlands ................. 12 dungeons
+  • Dragonflight ................ 17 dungeons
+  • Wrath of the Lich King ...... 16 dungeons
+  ────────────────────────────────────────
+  Total Historical: 70 dungeons
+
+GRAND TOTAL: 109+ dungeons mapped and documented
+
+════════════════════════════════════════════════════════════════════════════
+STATISTICS
+════════════════════════════════════════════════════════════════════════════
+
+By Expansion Type:
+  Historical Dungeons (5 expansions):  70 dungeons
+  Current Dungeons (3 expansions):     39 dungeons
+  
+  Total POIs:        11,021
+  Total Enemies:        873
+  Average POIs/Dungeon: ~85
+  Average Enemies/Dungeon: ~8
+
+════════════════════════════════════════════════════════════════════════════
+NOTES ON DATA COMPLETENESS
+════════════════════════════════════════════════════════════════════════════
+
+✓ All current expansion dungeons are fully mapped with POI data
+✓ All current expansion dungeons have enemy/NPC data
+✓ Historical dungeons maintain their original configurations
+⚠ Some historical dungeons may have different versions across game patches
+⚠ Dungeon names may have been updated or changed across expansions
+
+════════════════════════════════════════════════════════════════════════════
+CROSS-DUNGEON APPEARANCES
+════════════════════════════════════════════════════════════════════════════
+
+Some dungeons appear in multiple expansions with variations:
+
+• Algethar Academy
+  - Dragonflight (original)
+  - Midnight (remade)
+
+• Black Rook Hold / Blackrook Hold
+  - Legion (original)
+  - Dragonflight (reappearance)
+
+• Waycrest Manor
+  - Battle for Azeroth (original)
+  - Dragonflight (reappearance)
+  - The War Within (reappearance)
+
+• Mists of Tirna Scithe
+  - Shadowlands (original)
+  - The War Within (reappearance)
+
+• Halls of Atonement
+  - Shadowlands (original)
+  - The War Within (reappearance)
+
+• Theater of Pain
+  - Shadowlands (original)
+  - The War Within (reappearance)
+
+• Seat of the Triumvirate
+  - Legion (original)
+  - Midnight (reappearance)
+
+• Temple of the Jade Serpent
+  - Mists of Pandaria (original)
+  - Dragonflight (reappearance)
+
+• The Motherlode!!
+  - Battle for Azeroth (original)
+  - The War Within (reappearance)
+
+• Siege of Boralus
+  - Battle for Azeroth (original)
+  - The War Within (reappearance)
+
+════════════════════════════════════════════════════════════════════════════
+FILES AND RESOURCES
+════════════════════════════════════════════════════════════════════════════
+
+Main Database Files:
+  • AllExpansionsDungeonDatabase.lua     - Complete Lua database module
+  • AllExpansionsDungeonDatabase.json    - JSON format database
+  • AllExpansionsDungeonDatabase_Display.txt (this file)
+
+Previous Database Files:
+  • ConsolidatedDungeonDatabase.lua      - Original database (18 dungeons)
+  • ConsolidatedDungeonDatabase_Validator.lua - Validation utilities
+
+Documentation:
+  • ConsolidatedDungeonDatabase_README.md
+  • RECONSTRUCTION_SUMMARY.md
+
+════════════════════════════════════════════════════════════════════════════
+USAGE GUIDE
+════════════════════════════════════════════════════════════════════════════
+
+Loading the Database (Lua):
+───────────────────────────
+
+local db = require("Developer/AllExpansionsDungeonDatabase")
+
+-- Print all expansions and dungeons
+db:PrintAllExpansions()
+
+-- Get specific expansion
+local expansion = db:GetDungeonsForExpansion("The War Within")
+if expansion then
+  print("Found " .. #expansion.dungeons .. " dungeons in The War Within")
+end
+
+-- Get all expansion names
+local expNames = db:GetExpansionNames()
+for _, name in ipairs(expNames) do
+  print(name)
+end
+
+-- Get total dungeon count
+local totalCount = db:GetTotalDungeonCount()
+print("Total dungeons in database: " .. totalCount)
+
+════════════════════════════════════════════════════════════════════════════
+ADDITIONAL INFORMATION
+════════════════════════════════════════════════════════════════════════════
+
+Repository: https://github.com/Nnoggie/MythicDungeonTools
+Addon Name: Mythic Dungeon Tools
+Purpose: Interactive map viewer and dungeon planning tool for WoW M+ Dungeons
+
+Generation Date: February 15, 2026
+Last Updated: 6.0.7
+
+════════════════════════════════════════════════════════════════════════════
+
+For more information about each dungeon, check the individual source files
+in the appropriate expansion folder within the repository.
+
+════════════════════════════════════════════════════════════════════════════

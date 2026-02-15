@@ -1,0 +1,16 @@
+<Ui>
+  <!-- BattleForAzeroth Dungeons -->
+
+  <Include file="BattleForAzeroth/AtalDazar.lua"/>
+  <Include file="BattleForAzeroth/Freehold.lua"/>
+  <Include file="BattleForAzeroth/KingsRest.lua"/>
+  <Include file="BattleForAzeroth/MechagonCity.lua"/>
+  <Include file="BattleForAzeroth/MechagonIsland.lua"/>
+  <Include file="BattleForAzeroth/ShrineoftheStorm.lua"/>
+  <Include file="BattleForAzeroth/SiegeofBoralus.lua"/>
+  <Include file="BattleForAzeroth/TempleofSethraliss.lua"/>
+  <Include file="BattleForAzeroth/TheMotherlode.lua"/>
+  <Include file="BattleForAzeroth/TheUnderrot.lua"/>
+  <Include file="BattleForAzeroth/TolDagor.lua"/>
+  <Include file="BattleForAzeroth/WaycrestManor.lua"/>
+</Ui>

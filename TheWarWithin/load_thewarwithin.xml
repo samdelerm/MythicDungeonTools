@@ -1,0 +1,24 @@
+<Ui>
+  <!-- TheWarWithin Dungeons -->
+
+  <Include file="TheWarWithin/AraKara.lua"/>
+  <Include file="TheWarWithin/CinderbrewMeadery.lua"/>
+  <Include file="TheWarWithin/CityOfThreads.lua"/>
+  <Include file="TheWarWithin/DarkflameCleft.lua"/>
+  <Include file="TheWarWithin/EcoDomeAldani.lua"/>
+  <Include file="TheWarWithin/GrimBatol.lua"/>
+  <Include file="TheWarWithin/HallsOfAtonement.lua"/>
+  <Include file="TheWarWithin/MechagonWorkshop.lua"/>
+  <Include file="TheWarWithin/MistsOfTirnaScithe.lua"/>
+  <Include file="TheWarWithin/OperationFloodgate.lua"/>
+  <Include file="TheWarWithin/PrioryOfTheSacredFlame.lua"/>
+  <Include file="TheWarWithin/SiegeofBoralus.lua"/>
+  <Include file="TheWarWithin/TazaveshLower.lua"/>
+  <Include file="TheWarWithin/TazaveshUpper.lua"/>
+  <Include file="TheWarWithin/TheDawnbreaker.lua"/>
+  <Include file="TheWarWithin/TheMotherlode.lua"/>
+  <Include file="TheWarWithin/TheNecroticWake.lua"/>
+  <Include file="TheWarWithin/TheRookery.lua"/>
+  <Include file="TheWarWithin/TheStonevault.lua"/>
+  <Include file="TheWarWithin/TheaterOfPain.lua"/>
+</Ui>

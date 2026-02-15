@@ -1,0 +1,21 @@
+<Ui>
+  <!-- Dragonflight Dungeons -->
+
+  <Include file="Dragonflight/AlgetharAcademy.lua"/>
+  <Include file="Dragonflight/BlackrookHold.lua"/>
+  <Include file="Dragonflight/BrackenhideHollow.lua"/>
+  <Include file="Dragonflight/DawnOfTheInfiniteLower.lua"/>
+  <Include file="Dragonflight/DawnOfTheInfiniteUpper.lua"/>
+  <Include file="Dragonflight/Everbloom.lua"/>
+  <Include file="Dragonflight/HallsOfInfusion.lua"/>
+  <Include file="Dragonflight/Neltharus.lua"/>
+  <Include file="Dragonflight/RubyLifePools.lua"/>
+  <Include file="Dragonflight/ShadowmoonBurialGrounds.lua"/>
+  <Include file="Dragonflight/TempleOfTheJadeSerpent.lua"/>
+  <Include file="Dragonflight/TheAzureVault.lua"/>
+  <Include file="Dragonflight/TheNokhudOffensive.lua"/>
+  <Include file="Dragonflight/TheVortexPinnacle.lua"/>
+  <Include file="Dragonflight/ThroneOfTides.lua"/>
+  <Include file="Dragonflight/UldamanLegacyOfTyr.lua"/>
+  <Include file="Dragonflight/WaycrestManor.lua"/>
+</Ui>
